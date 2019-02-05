@@ -15,3 +15,4 @@ Combine items of similar qualities for item of higher quality
 Journal, Enemy encyclopedia
 Statistics Tracking
 Inventory and Stats
+A sad single monster to fight
