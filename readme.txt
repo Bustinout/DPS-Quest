@@ -3,6 +3,7 @@ DPS Quest
 Important:
 Currently, only the Exiled (Faction) Blademaster (Class) is implemented.
 So please select that when creating a character.
+You gain skills up to level 5. The Ability on the top left of the action bars is an easy way to one-shot enemies for testing.
 
 Features:
 Real time combat system
