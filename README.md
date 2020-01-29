@@ -4,8 +4,8 @@
   You gain skills up to level 5. The Ability on the top left of the action bars is an easy way to one-shot enemies for testing.
   
 ## Features:
-  Real time combat system
-  Randomly generated items
+  - Real time combat system
+  - Randomly generated items
   Action bar and abilities (Casted, Channeled, Instant, DoT, (de)buffs, etc.)
   Shop with random item crate
   Upgrade items with gold
