@@ -16,7 +16,7 @@
   A whopping single monster to fight
   
 ## Screenshots
-  https://imgur.com/a/kwhhhVl
+  https://imgur.com/a/MCiGCuJ
   
   
 
